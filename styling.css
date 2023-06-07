@@ -1,0 +1,16 @@
+h1 {
+    color:chartreuse;
+    border-color:#f1dd25;
+    border: width 5px;;
+    border-style: solid;
+}
+li {
+    color:#e05a90;
+}
+h4 {
+    color:red;
+    background-color:papayawhip;
+}
+body {
+    background:rgb(27, 12, 112);
+}
